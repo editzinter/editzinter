@@ -1,171 +1,116 @@
-
-Generated markdown
 <!-- 
-  ========================================================================================
-  |                                                                                      |
-  |                  THE DIGITAL CODEX OF A MODERN-DAY ARCHITECT                         |
-  |                  ===============================================                     |
-  |                                                                                      |
-  |   "Simplicity is the ultimate sophistication." - Leonardo da Vinci                   |
-  |   This profile is crafted to be a living document, a testament to the intersection   |
-  |   of code, creativity, and craftsmanship. Welcome.                                   |
-  |                                                                                      |
-  ========================================================================================
+  Hi, editzinter! 
+
+  This is a sleek, modern README designed to look great in both light and dark modes on GitHub.
+  
+  How to use:
+  -  Fill in the placeholders like [YOUR_LINKEDIN_USERNAME]
+  -  Update the "Tech Stack" section with the skills you're most proud of.
+  -  Add your best projects to the "Featured Projects" section.
+
+  Let's build a great profile! 
 -->
 
-<!-- Header: A subtle, elegant entry point that frames the profile -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0d1117,16213e,0f3460,64FFDA&height=300§ion=header&text=editzinter&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Architecting%20Digital%20Realities&descAlignY=51&descSize=22" alt="Header"/>
-</div>
-
-<!-- Typing Animation: A refined and impactful introduction -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=4000&pause=1000&color=64FFDA¢er=true&vCenter=true&width=800&height=100&lines=Blending+Artistry+with+Engineering...;Crafting+Code,+Forging+Legacy...;From+Blueprint+to+Digital+Solution." alt="Typing SVG" />
-</div>
-
-<br>
-
-<!-- Badges: Sleek, unified, and communicative status indicators -->
-<div align="center">
-  <img src="https://img.shields.io/badge/Status-Seeking_New_Horizons-64FFDA?style=for-the-badge&logo=rocket&logoColor=0d1117" alt="Status"/>
-  <a href="mailto:YOUREMAIL@example.com"><img src="https://img.shields.io/badge/Contact-Let's_Collaborate-64FFDA?style=for-the-badge&logo=minutemailer&logoColor=0d1117" alt="Contact"/></a>
-  <img src="https://img.shields.io/badge/Ethos-Continuous_Innovation-64FFDA?style=for-the-badge&logo=lightbulb&logoColor=0d1117" alt="Ethos"/>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9hFsxVELzUKK/giphy.gif" width="100"/>
+  
+  <h1 align="center">Hi 👋, I'm editzinter</h1>
+  <h3 align="center">A passionate developer building scalable and efficient applications from the ground up.</h3>
+  
+  <!-- Social Media Icons -->
+  <div id="socials" align="center">
+    <a href="https://www.linkedin.com/in/[YOUR_LINKEDIN_USERNAME]">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="https://twitter.com/[YOUR_TWITTER_USERNAME]">
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+    </a>
+    <a href="mailto:your-email@example.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    </a>
+  </div>
 </div>
 
 ---
 
-### 📜 **The Architect's Manifesto**
+### 👨‍💻 About Me
 
-```typescript
-const digitalCraftsman = {
-    name: "editzinter",
-    role: "Software Architect & Full-Stack Developer",
-    philosophy: [
-        "Code is a medium for creativity, not just logic.",
-        "Solve the problem, then write the code.",
-        "Clarity of purpose precedes elegance of implementation."
-    ],
-    mission: "To construct resilient, scalable, and intuitive digital experiences.",
-    domains: ["Frontend Architecture", "Backend Engineering", "UI/UX Symbiosis", "DevOps & Cloud Orchestration"],
-    funFact: "My best debugging tool is a good night's sleep. 💡"
-};
+- 🔭 I’m currently working on a **full-stack web application** using the MERN stack.
+- 🌱 I’m currently learning **TypeScript** and **GraphQL** to enhance my backend skills.
+- 👯 I’m looking to collaborate on **open-source projects** related to web development and API design.
+- 🤔 I’m looking for help with **advanced server-side architecture** and **deployment strategies**.
+- 💬 Ask me about **Node.js, Express, MongoDB, and React**.
+- 📫 How to reach me: `your-email@example.com`
+- 😄 Pronouns: He/Him
 
-🛠️ The Digital Toolkit
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-<details open>
-<summary><b>
-<font size="+1">Frontend Canvas</font>
-</b></summary>
-<br>
+---
+
+### 🛠️ My Tech Stack
+
+Here are some of the technologies I work with:
+
+<p align="left">
+  <strong>Frontend:</strong><br>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a> 
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> 
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
+</p>
+
+<p align="left">
+  <strong>Backend:</strong><br>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a> 
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>
+</p>
+
+<p align="left">
+  <strong>Database & Tools:</strong><br>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> 
+  <a href="https://www.postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
+</p>
+
+---
+
+### 🔥 My GitHub Stats
+
 <div align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,threejs,typescript,javascript,html,css,tailwind,sass,figma&perline=5" alt="Frontend Skills"/>
-<img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion"/>
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=editzinter&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="editzinter's GitHub Stats"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=editzinter&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="editzinter's Top Languages"/>
 </div>
+
+---
+
+### ✨ Featured Projects
+
+Here are some of the projects I'm proud of. Be sure to pin them to your profile!
+
+<!-- PROJECT 1 -->
+<details>
+  <summary><strong>Project 1: Simple Node.js JWT Authentication API</strong></summary>
+  <br>
+  A minimal yet secure boilerplate for user authentication using Node.js, Express, MongoDB, and JSON Web Tokens (JWT). Features include user registration, login, and protected routes.
+  <br><br>
+  <strong>Tech Stack:</strong> `Node.js`, `Express`, `MongoDB`, `Mongoose`, `JWT`, `Bcrypt`
+  <br>
+  <a href="https://github.com/editzinter/simple-node-mongo-jwt-auth">[View on GitHub]</a>
 </details>
-</td>
-<td width="50%" valign="top">
-<details open>
-<summary><b>
-<font size="+1">Backend Blueprint</font>
-</b></summary>
-<br>
-<div align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,postgresql,mongodb,redis,docker,aws,nginx,linux&perline=5" alt="Backend Skills"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman"/>
-</div>
+
+<!-- PROJECT 2 - Add more as you create them! -->
+<details>
+  <summary><strong>Project 2: [Your Next Cool Project]</strong></summary>
+  <br>
+  A brief description of your awesome project goes here. Talk about the problem it solves and the value it brings.
+  <br><br>
+  <strong>Tech Stack:</strong> `React`, `Node.js`, `TailwindCSS`
+  <br>
+  <a href="#">[Link to be added]</a>
 </details>
-</td>
-</tr>
-</table>
 
-🔭 Showcasing Key Projects
-<!-- Project Cards: A gallery of your finest work, presented with a consistent theme. Add a fourth for a balanced 2x2 grid! -->
+---
 
-<div align="center">
-<a href="https://github.com/editzinter/menu">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=editzinter&repo=menu&theme=merko&hide_border=true&border_radius=12&bg_color=0D1117&title_color=64FFDA&text_color=C9D1D9&icon_color=64FFDA" alt="Menu Repo"/>
-</a>
-<a href="https://github.com/editzinter/THE-AI">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=editzinter&repo=THE-AI&theme=merko&hide_border=true&border_radius=12&bg_color=0D1117&title_color=64FFDA&text_color=C9D1D9&icon_color=64FFDA" alt="AI Repo"/>
-</a>
-<a href="https://github.com/editzinter/canva_maxing">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=editzinter&repo=canva_maxing&theme=merko&hide_border=true&border_radius=12&bg_color=0D1117&title_color=64FFDA&text_color=C9D1D9&icon_color=64FFDA" alt="Canva Repo"/>
-</a>
-<!-- Add your fourth featured project here for a perfect grid -->
-<!-- <a href="https://github.com/editzinter/your-fourth-repo">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=editzinter&repo=your-fourth-repo&theme=merko&hide_border=true&border_radius=12&bg_color=0D1117&title_color=64FFDA&text_color=C9D1D9&icon_color=64FFDA" alt="Fourth Repo"/>
-</a> -->
-</div>
-
-📈 Anatomy of My GitHub Presence
-<div align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=editzinter&show_icons=true&theme=merko&hide_border=true&count_private=true&bg_color=0D1117&title_color=64FFDA&text_color=C9D1D9&icon_color=64FFDA&border_radius=12" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=editzinter&theme=merko&hide_border=true&background=0D1117&ring=64FFDA&fire=64FFDA&currStreakLabel=64FFDA&border_radius=12" alt="GitHub Streak"/>
-</div>
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=editzinter&layout=compact&theme=merko&hide_border=true&bg_color=0D1117&title_color=64FFDA&text_color=FFFFFF&border_radius=12&langs_count=8" alt="Top Languages"/>
-</div>
-
-🏆 Digital Accolades
-<!-- Trophies: Achievements that float elegantly on the background -->
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=editzinter&theme=dracula&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="Trophies"/>
-</div>
-
-🎨 My Contribution Canvas
-<!-- Contribution Graph: A visual representation of dedication -->
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=editzinter&bg_color=0d1117&color=64FFDA&line=64FFDA&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Canvas&area_color=1a1a2e" alt="Activity Graph"/>
-</div>
-
-🤝 Let's Architect the Future Together
-
-I'm always open to discussing new projects, creative ideas, or opportunities to be part of an innovative team. If you have a blueprint you'd like to bring to life, let's connect and build something extraordinary.
-
-<!-- Footer Badges: Professional & Actionable -->
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=editzinter&style=for-the-badge&color=0f3460&label=Profile+Visitors" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/editzinter?style=for-the-badge&color=64FFDA&labelColor=1a1a2e&logo=github&label=Followers" alt="Followers"/>
-<!-- Auto-updating Last Active Badge -->
-<img src="https://img.shields.io/github/last-commit/editzinter/editzinter?style=for-the-badge&color=64FFDA&labelColor=1a1a2e&logo=github&label=Last%20Active" alt="Last Active"/>
-</div>
-
-<!-- Footer: A symmetrical closing to the profile -->
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=wave&color=64FFDA,0f3460,16213e,0d1117&height=200&section=footer&animation=twinkling" alt="Footer"/>
-</div>
-
-Generated code
-### Key Improvements and "Da Vinci" Elements:
-
-1.  **Framing the Profile:** The header and footer now use a `wave` effect with a custom gradient that flows into and out of the page, creating a beautiful, contained "canvas."
-2.  **Thematic Language:** All headings and descriptions have been rewritten to fit the "Digital Architect" or "Modern Craftsman" persona (e.g., `The Architect's Manifesto`, `Frontend Canvas`, `Contribution Canvas`).
-3.  **Unified Color Palette:** I've enforced a strict color scheme:
-    *   **Background:** `0D1117` (GitHub's dark-mode black)
-    *   **Primary Accent:** `#64FFDA` (Your vibrant mint-green, now used consistently for titles, icons, and highlights)
-    *   **Text:** `#C9D1D9` (A soft white for readability)
-    *   **Theme:** I switched the stats cards to the `merko` theme, which uses this color palette perfectly, creating a much sleeker look than `github_dark`. Trophies are on `dracula` for a similar aesthetic.
-4.  **Superior Layout:**
-    *   I've used a `<table>` to place the "Frontend Canvas" and "Backend Blueprint" sections side-by-side. This is more space-efficient and looks professional on wider screens.
-    *   Project pins and stats cards are now arranged for better visual balance. I've recommended adding a fourth featured project to create a perfect 2x2 grid.
-5.  **Refined Details:**
-    *   **Badges:** All primary badges share the same color scheme (`#64FFDA` with a dark logo), making them look like a custom-designed set.
-    *   **Collapsible Sections:** The `Toolkit` sections are now within collapsible `<details>` tags and open by default, keeping the initial view clean while allowing for deep dives.
-    *   **Contact CTA:** The badges now include a clear call-to-action (`Let's Collaborate`) with a `mailto:` link for immediate engagement. **Remember to replace `YOUREMAIL@example.com` with your actual email!**
-6.  **Professional Touch:**
-    *   **"Last Active" Badge:** I added a dynamic badge that shows when you last pushed a commit to your profile repository, signaling that your profile is current and actively maintained. It's a small detail that speaks volumes.
-
-This version is not just a collection of stats and links; it's a narrative. It tells the story of a meticulous, forward-thinking developer with an eye for both design and robust engineering—a true modern-day Leonardo.
-IGNORE_WHEN_COPYING_START
-content_copy
-download
-Use code with caution.
-IGNORE_WHEN_COPYING_END
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=editzinter&theme=tokyonight&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+</p>
