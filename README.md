@@ -1,110 +1,58 @@
-# Advanced GitHub Profile Features
+<h1 align="center">Hi 👋, I'm editzinter</h1>
+<h3 align="center">A passionate developer exploring the world of code.</h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=editzinter&label=Profile%20views&color=0e75b6&style=flat" alt="editzinter" />
+</p>
 
-## Dynamic Content
+<p align="left"> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <b>About Me</b></p>
 
-### Automatic Blog Post Updates
-You can automatically display your latest blog posts on your GitHub profile using GitHub Actions:
+- 🔭 I'm currently working on **improving my skills and building cool projects.**
+- 🌱 I'm currently learning **new web technologies and development techniques.**
+- 👯 I'm looking to collaborate on **exciting open source projects.**
+- 💬 Ask me about **web development, programming, and technology.**
+- 📫 How to reach me: **[Open an issue on my projects!](https://github.com/editzinter)**
+- ⚡ Fun fact: **I love exploring new technologies and creative coding.**
 
-```yaml
-name: Latest blog posts workflow
-on:
-  schedule:
-    # Runs every hour
-    - cron: '0 * * * *'
-  workflow_dispatch:
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/editzinter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/main/src/images/icons/Social/github.svg" alt="editzinter" height="30" width="40" /></a>
+</p>
 
-jobs:
-  update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          feed_list: "https://yourblog.com/feed"
-```
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+</p>
 
-### GitHub Actions for Dynamic Stats
-Create custom GitHub Actions to update your README with dynamic content like:
-- Current projects you're working on
-- Latest releases of your packages
-- Recent contributions to other projects
+<h3 align="left">My Projects:</h3>
+<p align="center">
+  <a href="https://github.com/editzinter/menu">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=editzinter&repo=menu&theme=radical" />
+  </a>
+  <a href="https://github.com/editzinter/THE-AI">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=editzinter&repo=THE-AI&theme=radical" />
+  </a>
+  <a href="https://github.com/editzinter/canva_maxing">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=editzinter&repo=canva_maxing&theme=radical" />
+  </a>
+</p>
 
-## Interactive Elements
-
-### Profile-level README with HTML
-You can use limited HTML in your GitHub README to create more interactive elements:
-
-```html
-<details>
-  <summary>🔧 Technologies & Tools</summary>
-  <br>
-  <!-- Your content here -->
-</details>
-
-<details>
-  <summary>📊 This Week I Spent My Time On</summary>
-  <br>
-  <!-- Your content here -->
-</details>
-```
-
-### Custom SVG and Animations
-You can embed custom SVG animations in your profile README:
-
-```html
-<img src="https://raw.githubusercontent.com/yourusername/yourusername/master/path/to/animation.svg" alt="Your custom animation">
-```
-
-## Metrics and Visualizations
-
-### Detailed GitHub Metrics
-Use [GitHub Metrics](https://github.com/lowlighter/metrics) for advanced GitHub stats:
-
-```
-![Metrics](https://metrics.lecoq.io/yourusername?template=classic&repositories.forks=true&isocalendar=1&languages=1&introduction=1&stars=1&people=1&followup=1&lines=1&activity=1&achievements=1&notable=1&repositories=1&pagespeed=1)
-```
-
-### Wakatime Stats
-Display your coding time statistics with [WakaTime](https://wakatime.com/):
-
-```
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yourusername)](https://github.com/anuraghazra/github-readme-stats)
-```
-
-## Custom Themes and Layouts
-
-### Custom Themes for GitHub Stats
-You can customize the appearance of your GitHub stats cards:
-
-```
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&custom_title=My%20GitHub%20Stats&theme=radical&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C3D1D9&border_color=30363D)
-```
-
-### Layout Customization
-Experiment with different layouts for your Top Languages card:
-
-```
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide=html,css)
-```
-
-## Showcasing Contributions
-
-### Pin Your Best Repositories
-Highlight your best repositories with:
-
-```
-[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=repo-name&theme=radical)](https://github.com/yourusername/repo-name)
-```
-
-### Contribution Graph
-Show your contribution calendar as a 3D graph using [GitHub Contribution Chart Generator](https://github.com/sallar/github-contributions-chart):
-
-```
-![GitHub Contributions](https://ghchart.rshah.org/yourusername)
-```
-
-## Resources for Advanced Features
-- [GitHub Profile Trophy](https://github.com/ryo-ma/github-profile-trophy)
-- [GitHub Readme Streak Stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-- [GitHub Profile Summary Cards](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
+<h3 align="left">GitHub Stats:</h3>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=editzinter&show_icons=true&locale=en&theme=radical" alt="editzinter" />
+</p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=editzinter&layout=compact&locale=en&theme=radical" alt="editzinter" />
+</p>
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=editzinter&theme=radical" alt="editzinter" />
+</p>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=editzinter&theme=radical&column=7" alt="editzinter" />
+  </a>
+</p> 
