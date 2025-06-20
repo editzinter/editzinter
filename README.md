@@ -29,7 +29,7 @@
 </p>
 
 <h3 align="left">My Projects:</h3>
-<p align="center">
+<p align="left">
   <a href="https://github.com/editzinter/menu">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=editzinter&repo=menu&theme=radical" />
   </a>
