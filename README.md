@@ -1,11 +1,17 @@
 <!-- Animated Header with Sophisticated Design -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,10:0a0a0a,20:1a1a2e,30:16213e,40:0f3460,50:1e3a8a,60:0f3460,70:16213e,80:1a1a2e,90:0a0a0a,100:000000&height=350&section=header&text=editzinter&fontSize=90&fontColor=64FFDA&animation=blinking&fontAlignY=40&desc=Principal%20Software%20Engineer%20%7C%20System%20Architect%20%7C%20Innovation%20Leader&descAlignY=60&descSize=24&stroke=ffffff&strokeWidth=2" alt="Professional Header"/>
+  <img
+    src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,10:0a0a0a,20:1a1a2e,30:16213e,40:0f3460,50:1e3a8a,60:0f3460,70:16213e,80:1a1a2e,90:0a0a0a,100:000000&height=350&section=header&text=egitzinter&fontSize=90&fontColor=64FFDA&animation=blinking&fontAlignY=40&desc=Junior%20Newbie%20Dev&descAlignY=60&descSize=24&stroke=ffffff&strokeWidth=2"
+    alt="Newbie Header"
+  />
 </div>
 
 <!-- Dynamic Typing Introduction -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=2500&pause=1000&color=64FFDA&center=true&vCenter=true&multiline=true&width=1000&height=120&lines=Senior+Full-Stack+Developer+%26+System+Architect;Specializing+in+Scalable+Web+Applications;Passionate+About+Clean+Code+%26+Innovation;Building+Tomorrow's+Digital+Solutions+Today" alt="Dynamic Typing"/>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Egitzinter&weight=700&size=32&duration=2500&pause=1000&color=64FFDA&center=true&vCenter=true&multiline=true&width=1000&height=120&lines=Junior+Newbie+Developer;Learning+the+Ropes;Eager+to+Code;Building+My+First+Projects"
+    alt="Dynamic Typing"
+  />
 </div>
 
 <!-- Comprehensive Professional Badges -->
