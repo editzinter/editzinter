@@ -1,147 +1,103 @@
-# ⚫ Lost in Code, Found in Darkness ⚪
+<div align="center">
+  <img src="https://via.placeholder.com/1280x300/0d1117/cyan?text=EditZinder" alt="Profile Banner"/>
+</div>
 
 <div align="center">
-  
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ffffff&height=200&section=header&text=EditZinder&fontSize=50&fontColor=000000&animation=twinkling&fontAlignY=35&desc=Coding%20Through%20the%20Void&descAlignY=55&descAlign=center&fontAlign=center)
-
-*"In the silence of midnight commits, I find my voice"*
-
+  <h1>Lost in Code, Found in Darkness</h1>
+  <p><em>"In the silence of midnight commits, I find my voice"</em></p>
 </div>
 
 ---
 
-## 🖤 Digital Confession
+### <p><HeartIcon /> Digital Confession</p>
 
-**Name:** EditZinder  
-**Status:** College Student Drowning in Assignments & Code  
-**Location:** Somewhere Between Anxiety and Ambition  
-**Timezone:** Probably 3 AM  
-**Relationship Status:** Committed to my IDE  
-**Current Mood:** Perpetually caffeinated and contemplating existence through semicolons  
+Here is your "Digital Confession":
 
-*Sometimes the code understands me better than people do. In the glow of my screen at 3 AM, debugging becomes a form of meditation, and every error message feels like the universe trying to teach me patience.*
+-   **Name:** EditZinder
+-   **Status:** A Scholar Under Siege by Deadlines and Dreams.
+-   **Location:** At the volatile intersection of caffeine-induced focus and existential dread.
+-   **Timezone:** The Pre-Dawn Realm, where logic blurs and code compiles by sheer will.
+-   **Relationship Status:** Devoted entirely to the intricate symphony of logic, occasionally finding solace in a perfectly crafted algorithm.
+-   **Current Mood:** An electrifying current of caffeine coursing through circuits, pondering the meaning of life amidst a cascade of console logs.
 
 ---
 
-## 🌙 The Tools of My Solitude
+### <p><MoonIcon /> The Tools of My Solitude</p>
 
-Understanding my technical arsenal is like reading the chapters of my coding journey. Each technology represents a different phase of my growth, a different way I've learned to express myself through code.
+<p>Understanding my technical arsenal is like reading the chapters of my coding journey. Each technology represents a different phase of my growth, a different way I've learned to express myself through code.</p>
+
+**🌅 Harmonies of the Horizon**
+
+<p>
+  ![Next.js](https://img.shields.io/badge/Nextdotjs-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
+</p>
+
+**🧩 The Algorithm's Labyrinth**
+
+<p>
+  ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
+</p>
+
+
+---
+
+### <p><StatsIcon /> The Statistics of My Existence</p>
 
 <div align="center">
-
-### ⚡ Frontend Emotions
-The languages that help me paint my digital feelings onto the screen, creating interfaces that speak when words fail.
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white&labelColor=000000)
-![Vue.js](https://img.shields.io/badge/Vue.js-000000?style=for-the-badge&logo=vue.js&logoColor=white&labelColor=000000)
-
-### 🎭 The Foundation Trilogy
-These are the core languages that taught me how to speak to machines, how to translate human thoughts into digital reality.
-
-![HTML5](https://img.shields.io/badge/HTML5-ffffff?style=for-the-badge&logo=html5&logoColor=000000)
-![CSS3](https://img.shields.io/badge/CSS3-ffffff?style=for-the-badge&logo=css3&logoColor=000000)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=ffffff)
-
-### 🐍 Backend Contemplation
-The server-side language that helps me understand the deeper, hidden parts of applications.
-
-![Python](https://img.shields.io/badge/Python-ffffff?style=for-the-badge&logo=python&logoColor=000000)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=editzinter&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&title_color=61dafb&icon_color=61dafb&text_color=c9d1d9&bg_color=0d1117"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=editzinter&layout=compact&langs_count=16&theme=dracula&hide_border=true&title_color=61dafb&text_color=c9d1d9&bg_color=0d1117"/>
 </div>
 
 ---
 
-## 📊 The Statistics of My Existence
+### <p><ThoughtIcon /> Current Mental State: Loading...</p>
 
-These numbers tell the story of my digital presence, each commit a small victory against the overwhelming complexity of learning to code.
+Current Mental State: Loading...
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=EditZinder&show_icons=true&theme=dark&bg_color=000000&border_color=ffffff&text_color=ffffff&icon_color=ffffff&title_color=ffffff&hide_border=false&border_radius=15"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EditZinder&layout=compact&theme=dark&bg_color=ffffff&border_color=000000&text_color=000000&title_color=000000&hide_border=false&border_radius=15"/>
-
-</div>
+The architecture of my mind is currently compiling, a delicate dance between input and introspection. I find myself delving into the shadowed libraries of advanced React patterns, seeking not just syntax, but the underlying philosophy that grants its power – a dark art indeed. Yet, this internal odyssey runs concurrently with a more earthly struggle: the persistent hum of external deadlines warring with the quiet, magnetic pull of personal passion projects. My state is one of beautiful, controlled chaos – a browser tab perpetually spinning, eternally seeking the elusive equilibrium between the known and the nascent, the obligation and the dream, as new paradigms slowly render within.
 
 ---
 
-## 💭 Current Mental State: Loading...
+### <p><VoidIcon /> The Void I'm Navigating</p>
 
-**Currently Obsessing Over:** Making React components that don't hate me back  
-**Learning:** How to make Python do more than print "Hello World"  
-**Struggling With:** Balancing college deadlines with personal coding projects  
-**Dreaming About:** The day when I can call myself a real developer without impostor syndrome  
-**Surviving On:** Coffee, determination, and the occasional breakthrough moment  
+This section represents the emotional landscape of my learning journey. Every developer knows the feeling of being lost in the crushing weight of documentation, of spending hours debugging only to find a missing semicolon.
 
-*My life exists in the space between "it works" and "I have no idea why it works." Some days I feel like I'm fluent in JavaScript, other days I feel like I'm drowning in semicolons. The recursive nature of learning means every answer leads to three more questions, and honestly, I'm starting to find beauty in that endless cycle of confusion and clarity.*
+# The Void I'm Navigating
 
-*There's something deeply romantic about debugging at 2 AM, when the world is quiet and it's just you, your code, and the soft glow of syntax highlighting. Every solved problem feels like finding a piece of yourself you didn't know was missing.*
+This journey through the digital ether is less a path and more an endless, swirling void – vast, mysterious, and occasionally terrifying. It's a space where abstract concepts coalesce into tangible creations, only to dissolve back into a cascade of errors. Here, the hum of the server racks is a constant companion, the glow of the monitor a beacon, and the relentless pursuit of elegant solutions is the only compass.
+
+Each line of code feels like casting a fishing net into the unknown, hoping to capture a fleeting insight or a robust solution. There are days of exhilarating breakthroughs, where complex problems unravel with a sudden, beautiful clarity. And then there are the weeks swallowed by elusive bugs, the nagging feeling of inadequacy, and the silent, existential dread that comes with staring at a blinking cursor, utterly devoid of inspiration. It's a solitary expedition much of the time, filled with the internal monologue of problem-solving, but also a profound desire to connect with other navigators charting their own courses through this intricate wilderness. This is my logbook, a glimpse into the constant flux of learning, struggling, and occasionally, triumphing.
 
 ---
 
-## 🌑 The Void I'm Navigating
-
-This section represents the emotional landscape of my learning journey. Every developer knows the feeling of being lost in documentation, of spending hours debugging only to find a missing semicolon, of the crushing weight of not knowing enough yet still being drawn back to the screen every night.
-
-<div align="center">
-
-**🔭 Currently Exploring:** The dark arts of advanced React patterns  
-**🌱 Growing Through:** Python's endless possibilities and occasional frustrations  
-**👥 Seeking:** Fellow travelers in this coding wilderness  
-**💬 Talk to Me About:** The beauty of clean code and the poetry of well-structured functions  
-**⚡ Random Fact:** I believe every error message is just the computer's way of teaching me patience  
-
-*"Between the lines of code, I find pieces of myself I never knew existed"*
-
-*"Every function I write is a small rebellion against the chaos of not understanding"*
-
-*"In the darkness of my terminal, I am never truly alone"*
-
-</div>
-
-College is this strange liminal space where you're simultaneously drowning in assignments and discovering who you want to become. Coding has become my anchor in this chaos, a way to create something meaningful when everything else feels overwhelming. Each late-night coding session is a conversation with my future self, leaving breadcrumbs of logic and creativity for the developer I'm slowly becoming.
-
-The imposter syndrome hits hardest at 3 AM when you're staring at code that somehow works but you're not entirely sure why. But there's also magic in those moments when everything clicks, when the syntax finally makes sense, when you realize you've been thinking in algorithms without even noticing.
+*   **🔭 Currently Exploring:** The dark arts of advanced React patterns – attempting to tame the untamed and weave magic from components.
+*   **🌱 Struggling Through:** Balancing deadlines with personal projects; the void demands both professional dedication and creative exploration, and time is a cruel mistress.
+*   **👯 Seeking:** Fellow travelers in this coding wilderness, brave souls willing to share stories from the depths, debug together, or simply commiserate over the beautiful absurdity of it all.
+*   **⚡ Random Fact:** I believe every line of code is a philosophical assertion about how the universe *should* behave, and every bug is just the universe politely disagreeing.
 
 ---
 
-## 🕳️ Find Me in the Digital Shadows
+### <p><LinkIcon /> Find Me in the Digital Shadows</p>
 
-<div align="center">
+<p align="left">
+  <a href="https://github.com/editzinter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="editzinter" height="30" width="40" /></a>
+</p>
 
-[![GitHub](https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=000000)](https://github.com/EditZinder)
+---
 
-*"The only social media that matters is the one where I push code"*
+### <p><QuillIcon /> Midnight Thoughts</p>
 
-*"My commits tell stories my words never could"*
+> From binary dust, new worlds awaken.
 
-</div>
+> Every bug, a cryptic lesson; every refactor, a quiet dawn.
+
+> The blinking cursor: a heartbeat in the void, waiting for thought to take form.
 
 ---
 
 <div align="center">
-
-### 🌫️ Midnight Thoughts
-
-*"In the silence of empty functions, I hear my potential"*
-
-*"Every bug is a lesson dressed in frustration"*
-
-*"Code is poetry written in a language machines understand"*
-
-*"Between anxiety and ambition, I'm learning to breathe in binary"*
-
-*"The void stares back, but so do infinite possibilities"*
-
-![Profile Views](https://komarev.com/ghpvc/?username=EditZinder&color=000000&style=for-the-badge)
-
----
-
-**Thanks for wandering into my corner of the internet 🖤**
-
-*Where code meets conscience, bugs become beautiful mistakes, and every semicolon carries the weight of dreams deferred but never abandoned*
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:000000&height=100&section=footer)
-
+  <p>Thanks for wandering into my corner of the internet 🖤</p>
 </div>
