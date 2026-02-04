@@ -4,18 +4,28 @@ Creative Developer & Digital Curator. Focused on high-fidelity user experiences 
 
 ---
 
-### 🏛 Current Archive
-- **[Fauna](https://github.com/editzinter/animal-encyclo)**: A cinematic biological specimen record system built with Next.js, Framer Motion, and elite spatial transitions.
-- **[moveOverlay-rust](https://github.com/editzinter/moveOverlay-rust)**: High-performance overlay system implementation in Rust.
-- **[yt-upload-automation](https://github.com/editzinter/yt-upload-automation)**: Systematic workflow for automated content transmission.
+### 🏛 Featured Archives
+
+- **[Fauna](https://animal-encyclo.vercel.app)**
+  A cinematic biological specimen record system built with Next.js, Framer Motion, and elite spatial transitions.
+
+- **[Weavlo](https://weavlo.vercel.app)**
+  High-fidelity interface for systematic workflow and digital orchestration.
+
+- **[Pixelvane](https://pixelvane.netlify.app)**
+  Advanced visual processing and digital manifestation archive.
+
+---
 
 ### 🔬 Core Specializations
+
 - **Frontend**: Next.js (App Router), React, TypeScript
 - **Motion**: Framer Motion, Lenis Smooth Scroll, GSAP
-- **Systems**: Rust, Automation, CLI Tooling
+- **Aesthetic**: Brutalist Minimal, Cinematic UI, Digital Archives
 
 ### 📫 Transmission
-[Portfolio](https://github.com/editzinter/portfolio) // [LinkedIn](https://linkedin.com/in/editzinter) // [GitHub](https://github.com/editzinter)
+
+[Access Portfolio](https://dev-works-gray.vercel.app/)
 
 ---
 *System Status: Active // Vol. 01 // Archive Encrypted*
