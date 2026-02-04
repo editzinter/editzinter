@@ -1,31 +1,31 @@
-# editzinter
+# Hey, I'm editzinter
 
-Creative Developer & Digital Curator. Focused on high-fidelity user experiences and archival system architecture.
+I'm a developer who loves building websites that feel like an experience. I focus on clean code, smooth animations, and high-end design.
 
 ---
 
-### 🏛 Featured Archives
+### 🏛 Projects I've Worked On
 
 - **[Fauna](https://animal-encyclo.vercel.app)**
-  A cinematic biological specimen record system built with Next.js, Framer Motion, and elite spatial transitions.
+  A cinematic animal encyclopedia with smooth 3D transitions and a minimalist archive vibe.
 
 - **[Weavlo](https://weavlo.vercel.app)**
-  High-fidelity interface for systematic workflow and digital orchestration.
+  A clean and fast interface built for organized workflows and better productivity.
 
 - **[Pixelvane](https://pixelvane.netlify.app)**
-  Advanced visual processing and digital manifestation archive.
+  A digital gallery focused on high-quality visuals and smooth user interactions.
 
 ---
 
-### 🔬 Core Specializations
+### 🔬 Tech I Use
 
-- **Frontend**: Next.js (App Router), React, TypeScript
-- **Motion**: Framer Motion, Lenis Smooth Scroll, GSAP
-- **Aesthetic**: Brutalist Minimal, Cinematic UI, Digital Archives
+- **Frontend**: Next.js, React, TypeScript
+- **Animation**: Framer Motion, Lenis Scroll, GSAP
+- **Styling**: Tailwind CSS, Modern UI/UX Design
 
-### 📫 Transmission
+### 📫 Let's Connect
 
-[Access Portfolio](https://dev-works-gray.vercel.app/)
+[Check out my Portfolio](https://dev-works-gray.vercel.app/)
 
 ---
-*System Status: Active // Vol. 01 // Archive Encrypted*
+*Building things one pixel at a time.*
